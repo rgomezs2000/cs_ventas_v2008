@@ -1,0 +1,5 @@
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaDatos\bin\Release\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaDatos\bin\Release\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaDatos\obj\Release\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaDatos\obj\Release\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaDatos\obj\Release\CapaDatos.pdb

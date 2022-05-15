@@ -1,0 +1,42 @@
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaNegocios\obj\Debug\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\bin\Debug\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\bin\Debug\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\bin\Debug\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\obj\Debug\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\CapaNegocios\obj\Debug\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Debug\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Debug\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Debug\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Debug\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\obj\Debug\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\Sistemas\C#_Ventar - V2008\CapaNegocios\obj\Debug\CapaNegocios.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaNegocios.dll
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaNegocios.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaDatos.dll
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaDatos.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\obj\Debug\CapaNegocios.dll
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaNegocios\obj\Debug\CapaNegocios.pdb
+F:\Software\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaNegocios.dll
+F:\Software\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaNegocios.pdb
+F:\Software\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaDatos.dll
+F:\Software\C#_Ventas - V2008\CapaNegocios\bin\Debug\CapaDatos.pdb
+F:\Software\C#_Ventas - V2008\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+F:\Software\C#_Ventas - V2008\CapaNegocios\obj\Debug\CapaNegocios.dll
+F:\Software\C#_Ventas - V2008\CapaNegocios\obj\Debug\CapaNegocios.pdb

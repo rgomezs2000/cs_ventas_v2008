@@ -1,0 +1,7 @@
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Release\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Release\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Release\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\bin\Release\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\obj\Release\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\obj\Release\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaNegocios\obj\Release\CapaNegocios.pdb

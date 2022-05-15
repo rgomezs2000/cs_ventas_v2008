@@ -1,0 +1,116 @@
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+K:\3. BLOG\C#\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConsultarVenta.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Debug\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmConsultarVenta.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmConsultarVenta.resources
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\SANCHEZ\Desktop\Codigo Fuente\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmConsultarVenta.resources
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Sistemas\C#_Ventar - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaNegocios.dll
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaDatos.dll
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaDatos.pdb
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmConsultarVenta.resources
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+G:\5to Ciclo\C Sharp\Sistemas\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaNegocios.dll
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+F:\Software\C#_Ventas - V2008\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmConsultarVenta.resources
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmMantenimientoProducto.resources
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarVenta.resources
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.frmSeleccionarProducto.resources
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\Software\C#_Ventas - V2008\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache

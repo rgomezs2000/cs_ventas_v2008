@@ -1,0 +1,17 @@
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaPresentacion.exe.config
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaPresentacion.exe
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaNegocios.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaNegocios.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\bin\Release\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.frmConsultarVenta.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.frmMantenimientoProducto.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.frmPrincipal.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.frmRegistrarVenta.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.frmSeleccionarProducto.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.Cache
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.exe
+K:\3. BLOG\C#\SistemaVentas\Codigo Fuente\CapaPresentacion\obj\Release\CapaPresentacion.pdb

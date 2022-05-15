@@ -1,0 +1,19 @@
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\hwongu\Documents\Visual Studio 2008\Projects\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+K:\3. BLOG\C#\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+K:\3. BLOG\C#\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+K:\3. BLOG\C#\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Sistemas\C#_Ventar - V2008\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Sistemas\C#_Ventar - V2008\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistemas\C#_Ventar - V2008\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Sistemas\C#_Ventar - V2008\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\Software\C#_Ventas - V2008\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Software\C#_Ventas - V2008\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Software\C#_Ventas - V2008\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Software\C#_Ventas - V2008\CapaDatos\obj\Debug\CapaDatos.pdb

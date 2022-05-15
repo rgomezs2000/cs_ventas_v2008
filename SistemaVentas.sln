@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{9354921C-D968-483E-A81A-79347D46BECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocios", "CapaNegocios\CapaNegocios.csproj", "{69C00F0B-08B0-4EA9-AD05-52871698D14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{C78B88A7-1910-4779-92D5-8B4FFE13F83F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9354921C-D968-483E-A81A-79347D46BECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9354921C-D968-483E-A81A-79347D46BECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9354921C-D968-483E-A81A-79347D46BECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9354921C-D968-483E-A81A-79347D46BECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C00F0B-08B0-4EA9-AD05-52871698D14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C00F0B-08B0-4EA9-AD05-52871698D14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C00F0B-08B0-4EA9-AD05-52871698D14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C00F0B-08B0-4EA9-AD05-52871698D14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78B88A7-1910-4779-92D5-8B4FFE13F83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78B88A7-1910-4779-92D5-8B4FFE13F83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78B88A7-1910-4779-92D5-8B4FFE13F83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78B88A7-1910-4779-92D5-8B4FFE13F83F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
